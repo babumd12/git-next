@@ -1,5 +1,6 @@
 hello world
 <<<<<<< HEAD
+<<<<<<< HEAD
 124654121
 
 fsdfsfs sdfh
@@ -11,5 +12,7 @@ hd
 h
 dhdfghdfkjhd h
 dfh
+=======
+>>>>>>> parent of 64329f6...  file 1.txt modefid
 =======
 >>>>>>> parent of 64329f6...  file 1.txt modefid
